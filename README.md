@@ -54,87 +54,15 @@
   
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saradarb&theme=tokyonight)
-  
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saradarb&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-  
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saradarb&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
-  
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/saradarb/saradarb/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-## 💻 Workspace Setup
-
-```javascript
-const mySetup = {
-    OS: "Windows 11 / macOS",
-    Editor: "VS Code",
-    Terminal: "Windows Terminal / iTerm2",
-    Coffee: "Always ☕",
-    Music: "Lo-fi Hip Hop 🎵",
-    Motivation: "Making the world better, one commit at a time! 🚀"
-};
-```
-
-## 🎯 Fun Facts About Me
-
-<details>
-<summary>Click to expand!</summary>
-
-- 🎮 I love playing video games in my free time
-- 📚 I read tech blogs every morning with coffee
-- 🏃‍♂️ I enjoy running and staying active
-- 🌱 I have a small indoor garden
-- 🎵 I play guitar when I need a break from coding
-- 🍕 Pizza is my favorite debugging fuel
-
-</details>
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://saradarb.github.io/ThemeSpace/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saradernouni@gmail.com)
 
 </div>
 
----
 
-<div align="center">
-  
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=saradarb.saradarb)
-  
-  **Show some ❤️ by starring some of my repositories!**
-  
-</div>
-
-<div align="center">
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
-</div>
